@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "35274830-9BF5-4883-B6A6-00A246841647"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "158AB661-568C-4845-9CC1-BB9793E48A64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "requestData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25FF96D4-07DC-4B1A-AA1C-805BDF43A047"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "requestData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A507382A-A668-4FBD-881D-A4F079CE43BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Helpers/Date-Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "checkIfIsSame(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9473FE4E-2C88-43E7-A47D-9FA6A2ED0861"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Controllers/HomeScreenController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "setupBinds()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "828D500C-AF95-4682-8232-D4DD7148E25D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Controllers/HomeScreenController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "setupBinds()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E75B4BF-D7E7-49F3-9F9B-5FFFB74488C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "clean()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E75B4BF-D7E7-49F3-9F9B-5FFFB74488C2 - b2f52046f372d90b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeatherChallenge.LineCharView.(clean in _9EC1EF41DD6CF7ACFD05A03F9DEE3D2C)() -&gt; ()"
+                  moduleName = "OpenWeatherChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardorabeto/Desktop/Development/Swift/OpenWeatherChallenge/OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "6E75B4BF-D7E7-49F3-9F9B-5FFFB74488C2 - d190c506031fc1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CALayer) -&gt; () in OpenWeatherChallenge.LineCharView.(clean in _9EC1EF41DD6CF7ACFD05A03F9DEE3D2C)() -&gt; ()"
+                  moduleName = "OpenWeatherChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardorabeto/Desktop/Development/Swift/OpenWeatherChallenge/OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18F0A529-50DE-4651-8BD9-E65148EE6CC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "clean()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18F0A529-50DE-4651-8BD9-E65148EE6CC9 - b2f52046f372d90b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeatherChallenge.LineCharView.(clean in _9EC1EF41DD6CF7ACFD05A03F9DEE3D2C)() -&gt; ()"
+                  moduleName = "OpenWeatherChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardorabeto/Desktop/Development/Swift/OpenWeatherChallenge/OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "18F0A529-50DE-4651-8BD9-E65148EE6CC9 - e0e55d315acac9c2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.CALayer) -&gt; () in OpenWeatherChallenge.LineCharView.(clean in _9EC1EF41DD6CF7ACFD05A03F9DEE3D2C)() -&gt; ()"
+                  moduleName = "OpenWeatherChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardorabeto/Desktop/Development/Swift/OpenWeatherChallenge/OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "937CA46C-28FD-4D98-BA2F-C537EFC11C3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7562BD1B-8B69-48FA-B99B-12B07B09E949"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherChallenge/Views/HomeView/LineCharView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "fullclear()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
