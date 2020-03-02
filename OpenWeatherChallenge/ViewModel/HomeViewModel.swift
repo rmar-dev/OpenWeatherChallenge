@@ -44,13 +44,21 @@ class HomeViewModel {
                 var todayForecast: [List] = []
                 var dayList: [String] = ["header"]
                 
+                ///loog the list to filter and seperate by day
                 list.forEach { (value) in
+                              
+                    ///Retrive date from stamp
                     let newDate = Date().getCurrentStamp(stamp: value.dt)
+                    
+                    ///create a header and days labels to seperate the forecasts by day
                     let dayOfForeccast = Date().checkIfIsSame(input: Date().getFormatedDate(input: newDate))
+                              
+                    ///Get the firs 10 records to build the graphic
                     if todayForecast.count < 10 {
                         todayForecast.append(value)
                     }
                     
+                    ///check if is header, the header tag is created for today list elements, if not add to future forecasts
                     if(dayOfForeccast != "header"){
                      if((futureForecast[dayOfForeccast]) != nil){
                         futureForecast[dayOfForeccast]?.append(value)
@@ -68,7 +76,7 @@ class HomeViewModel {
             })
             .disposed(by: disposeBag)
             
-        
+        //Merge the observable to handle toghether
         Observable.zip(currentWeather, forecastWather)
             .subscribe(onNext: { [weak self] weatherJson, forecastJosn  in
                 guard let resultWeather = weatherJson.element, let resultForecastList = forecastJosn.element?.list else {
